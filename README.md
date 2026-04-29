@@ -4,9 +4,7 @@ A mobile application developed as part of an academic project.
 
 ## 📁 Project Files
 
-The full source code is available for download in the file below:
-
-- [`lib.zip`](./lib.zip) — Click to download the project source code
+press "code" and donload zip file.
 
 ## 📲 How to Run
 
